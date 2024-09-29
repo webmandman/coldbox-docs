@@ -94,7 +94,7 @@ setup()
 
 ### ColdBox TestBox Matchers
 
-ColdBox also automatically adds several [custom matchers](https://testbox.ortusbooks.com/in-depth/expectations/custom-matchers) to TestBox, so it can help you get nice expectations:
+ColdBox also automatically adds several [custom matchers](https://testbox.ortusbooks.com/digging-deeper/expectations/custom-matchers) to TestBox, so it can help you get nice expectations:
 
 #### toHaveStatus()
 
