@@ -6,9 +6,9 @@ This structure allows you to define a system-wide default layout and view.
 //Layout Settings
 layoutSettings = {
     // The default layout to use if NOT defined in a request
-    defaultLayout = "Main.cfm",
+    defaultLayout = "Main",
     // The default view to use to render if NOT defined in a request
-    defaultView   = "youForgot.cfm"
+    defaultView   = "youForgot"
 };
 ```
 
